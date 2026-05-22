@@ -85,7 +85,7 @@ The final report is automatically delivered through Telegram.
 
 ### Telegram Executive Brief
 
-![Telegram Output](demo/screenshots/telegram_output.png)
+![Telegram Output](demo/demo/screenshots/telegram.png)
 
 ### Intelligence Database
 
