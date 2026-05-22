@@ -81,7 +81,7 @@ The final report is automatically delivered through Telegram.
 
 ### n8n Workflow
 
-![Workflow](demo/screenshots/workflow.png)
+![Workflow](demo/demo/screenshots/workflow.png)
 
 ### Telegram Executive Brief
 
