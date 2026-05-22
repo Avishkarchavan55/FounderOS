@@ -89,7 +89,7 @@ The final report is automatically delivered through Telegram.
 
 ### Intelligence Database
 
-![Database](demo/screenshots/sheets_database.png)
+![Database](demo/demo/screenshots/googlesheets.png)
 
 ---
 
