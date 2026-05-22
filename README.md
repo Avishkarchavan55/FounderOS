@@ -125,4 +125,4 @@ Through this project, I explored:
 
 
 
-w AI-powered automation systems can help founders, product teams, and strategy teams efficiently consume market information and convert raw news into structured strategic intelligence.
+AI-powered automation systems can help founders, product teams, and strategy teams efficiently consume market information and convert raw news into structured strategic intelligence.
